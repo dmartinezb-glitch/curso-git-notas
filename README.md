@@ -1,5 +1,12 @@
 Comandos:
-
+git status
+git add
+git commit -m
+git push
+git diff
+git log
+git diff --staged
+git log --oneline
 
 -Qué es Git?
 
