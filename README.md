@@ -7,6 +7,8 @@ git diff
 git log
 git diff --staged
 git log --oneline
+git switch
+git merge
 
 -Qué es Git?
 
