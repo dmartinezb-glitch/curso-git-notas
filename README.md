@@ -9,6 +9,8 @@ git diff --staged
 git log --oneline
 git branch
 git checkout -b
+git switch
+git merge
 
 -Qué es Git?
 
