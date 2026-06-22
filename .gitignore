@@ -1,0 +1,11 @@
+# Excluir carpetas de entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Archivos compilados de Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
