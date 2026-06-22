@@ -12,6 +12,7 @@ git checkout -b
 git switch
 git merge
 touch .gitignore
+git check-ignore -v
 
 -Qué es Git?
 

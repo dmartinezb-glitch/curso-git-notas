@@ -9,3 +9,19 @@ ENV/
 *.pyc
 *.pyo
 *.pyd
+
+#Carpetas de distribución y empaquetamiento
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+
