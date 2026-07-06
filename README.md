@@ -25,4 +25,5 @@ git check-ignore -v
 
 -Por qué trabajar en una rama propia?
 
+* Cambio hecho por Dev B
 * Cambio hecho por Dev A
