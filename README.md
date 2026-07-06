@@ -24,3 +24,5 @@ git check-ignore -v
 -Qué es una rama?
 
 -Por qué trabajar en una rama propia?
+
+* Cambio hecho por Dev B
